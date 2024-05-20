@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Lexend Deca';
+    src: url("/fonts/LexendDeca-VariableFont_wght.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Big Shoulders Display';
+    src: url("/fonts/BigShouldersDisplay-VariableFont_wght.ttf") format('truetype');
+}
